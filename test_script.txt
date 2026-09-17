@@ -1,0 +1,16 @@
+execute_script test_script2.txt
+insert 1
+ScriptLab
+10
+20
+5
+7.5
+VERY_EASY
+Ivan
+PASS123
+
+
+1
+2.5
+3.5
+show

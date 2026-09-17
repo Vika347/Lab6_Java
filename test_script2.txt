@@ -1,0 +1,44 @@
+//execute_script test_script.txt
+insert 101
+Zebra
+10
+20
+5
+7.5
+EASY
+AuthorZ
+PASSZ
+
+
+1
+2.5
+3.5
+insert 102
+Alpha
+11
+21
+6
+8.5
+HARD
+AuthorA
+PASSA
+
+
+2
+3.5
+4.5
+insert 103
+Mike
+12
+22
+7
+9.5
+VERY_HARD
+AuthorM
+PASSM
+
+
+3
+4.5
+5.5
+show
